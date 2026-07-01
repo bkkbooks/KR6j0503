@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0503/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛薩埵說頻那夜迦天成就儀軌經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1272.xml
+    old_id: T21n1272
+hash: sha256:ba36f73659e5743c7e400951c2834cd6cdba8995e6d077ca81f740b822a19cf8
